@@ -32,6 +32,8 @@ The app uses SPM as a package manager, including Kingfisher an Image Loader Libr
 
 ### Improvements
 I can implement a Search Bar on the list with tags attached to each comic and return the relevant comics to the user.
-Color filters where the user can get the format of the comics by filtering them. The idea of the colors was to create a visualization where the user can easily group by formats.
+
+Another improvement is to have Color filters where the user can get the format of the comics by filtering them. The idea of the colors was to create a visualization where the user can easily group by formats.
+
 Offline mode is a must these days; it helps reduce calls to the network and avoid wait time when loading the data to the user.
 Presenting more information on the details view as a horizontal list of Variants if the comics have or related comics that the user can visit.
