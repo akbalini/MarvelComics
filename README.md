@@ -2,6 +2,8 @@
 
 Marvel Comics App is an iOS app that fetches comics from https://developer.marvel.com and displays the Comics on a List. The app shows the Thubmnail, Title, and type of each comic.
 
+**You need to create your private and public key and set it on the project to run the application. These keys should not be uploaded to any repository and keep them in a safe place.**
+
 For better visualization, every cell is colored with a different color depending on the format of the comic:
 
 
